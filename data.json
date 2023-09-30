@@ -1,0 +1,176 @@
+[
+  {
+    "serial_number": 1,
+    "product_name": "পটেটো ক্র্যা:",
+    "product_quantity": 20,
+    "price": 8.10
+  },
+  {
+    "serial_number": 2,
+    "product_name": "নাচোজ",
+    "product_quantity": 20,
+    "price": 16.20
+  },
+  {
+    "serial_number": 3,
+    "product_name": "আলুজ",
+    "product_quantity": 20,
+    "price": 16.20
+  },
+  {
+    "serial_number": 4,
+    "product_name": "পটেটো স্টিকস",
+    "product_quantity": 20,
+    "price": 8.10
+  },
+  {
+    "serial_number": 5,
+    "product_name": "ডালমুঠ-২২",
+    "product_quantity": 13,
+    "price": 8.40
+  },
+  {
+    "serial_number": 6,
+    "product_name": "ডালমুঠ-৯০",
+    "product_quantity": 13,
+    "price": 23.69
+  },
+  {
+    "serial_number": 7,
+    "product_name": "ডালমুঠ-১৫০",
+    "product_quantity": 13,
+    "price": 39.62
+  },
+  {
+    "serial_number": 8,
+    "product_name": "ডালমুঠ-৩০০",
+    "product_quantity": 13,
+    "price": 72
+  },
+  {
+    "serial_number": 9,
+    "product_name": "নাগা ঝাল-২২",
+    "product_quantity": 28,
+    "price": 7.50
+  },
+  {
+    "serial_number": 10,
+    "product_name": "নাগা ঝাল-১৫০",
+    "product_quantity": 13,
+    "price": 39.62
+  },
+  {
+    "serial_number": 11,
+    "product_name": "মরিচের গুড়া-৫০",
+    "product_quantity": 13,
+    "price": 36.92
+  },
+  {
+    "serial_number": 12,
+    "product_name": "মরিচের গুড়া-১০০",
+    "product_quantity": 13,
+    "price": 64.15
+  },
+  {
+    "serial_number": 13,
+    "product_name": "মরিচের গুড়া-২০০",
+    "product_quantity": 13,
+    "price": 133.85
+  },
+  {
+    "serial_number": 14,
+    "product_name": "মরিচের গুড়া-৫০০",
+    "product_quantity": 1,
+    "price": 322
+  },
+  {
+    "serial_number": 15,
+    "product_name": "হলুদের গুড়া-৫০",
+    "product_quantity": 13,
+    "price": 24
+  },
+  {
+    "serial_number": 16,
+    "product_name": "হলুদের গুড়া-১০০",
+    "product_quantity": 13,
+    "price": 43.38
+  },
+  {
+    "serial_number": 17,
+    "product_name": "হলুদের গুড়া-২০০",
+    "product_quantity": 13,
+    "price": 80.31
+  },
+  {
+    "serial_number": 18,
+    "product_name": "ধনিয়ার গুড়া-৫০",
+    "product_quantity": 13,
+    "price": 25.38
+  },
+  {
+    "serial_number": 19,
+    "product_name": "ধনিয়ার গুড়া-১০০",
+    "product_quantity": 13,
+    "price": 47.54
+  },
+  {
+    "serial_number": 20,
+    "product_name": "ধনিয়ার গুড়া-২০০",
+    "product_quantity": 13,
+    "price": 92.50
+  },
+  {
+    "serial_number": 21,
+    "product_name": "জিরা-৫০",
+    "product_quantity": 1,
+    "price": 92.50
+  },
+  {
+    "serial_number": 22,
+    "product_name": "জিরা-১০০",
+    "product_quantity": 1,
+    "price": 178.50
+  },
+  {
+    "serial_number": 23,
+    "product_name": "চিকেন ক্যারি-২০",
+    "product_quantity": 13,
+    "price": 13.85
+  },
+  {
+    "serial_number": 24,
+    "product_name": "ফিস ক্যারি-২০",
+    "product_quantity": 13,
+    "price": 11.54
+  },
+  {
+    "serial_number": 25,
+    "product_name": "বিফ ক্যারি-২৫",
+    "product_quantity": 13,
+    "price": 15.46
+  },
+  {
+    "serial_number": 26,
+    "product_name": "মেজ বিকক্যারি-৬৮",
+    "product_quantity": 1,
+    "price": 68
+  },
+  {
+    "serial_number": 27,
+    "product_name": "চিকেন রোস্ট-৩৫",
+    "product_quantity": 1,
+    "price": 55
+  },
+  {
+    "serial_number": 28,
+    "product_name": "বিরানী মসল্লা-৪০",
+    "product_quantity": 1,
+    "price": 50
+  },
+  {
+    "serial_number": 29,
+    "product_name": "গরম মসল্লা-৪০",
+    "product_quantity": 13,
+    "price": 55.38
+  }
+]
